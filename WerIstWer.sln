@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WerIstWer", "WerIstWer\WerIstWer.csproj", "{1AD6A80D-F022-41DD-BBE3-8780BAE40D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD6A80D-F022-41DD-BBE3-8780BAE40D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD6A80D-F022-41DD-BBE3-8780BAE40D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD6A80D-F022-41DD-BBE3-8780BAE40D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD6A80D-F022-41DD-BBE3-8780BAE40D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {313DA6B2-6F47-4557-AEC2-0126BCF9B2FF}
+	EndGlobalSection
+EndGlobal
